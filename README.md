@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellfire-nilesh&show_icons=true&locale=en" alt="hellfire-nilesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellfire-nilesh&" alt="hellfire-nilesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh-prajapat&" alt="nilesh-prajapat" /></p>
 

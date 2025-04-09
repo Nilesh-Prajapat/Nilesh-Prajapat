@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [PortFolio-v2](https://github.com/Nilesh-Prajapat/PortFolio-v2)
   
-- 🌱 I’m currently learning **Flutter and React native**
+- 🌱 I’m currently learning **Flutter and React Js**
 
 - 💬 Ask me about **Flutter**
 

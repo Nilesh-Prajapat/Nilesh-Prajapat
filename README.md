@@ -1,29 +1,63 @@
-<h1 align="center">Hi 👋, I'm Nilesh Prajapat</h1>
-<h3 align="center">A passionate student and a flutter developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<br clear="both">
 
-- 🔭 I’m currently working on [PortFolio-v2](https://github.com/Nilesh-Prajapat/PortFolio-v2)
-  
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **work.nilesh.pr@gmail.com**
-
-- ⚡ Fun fact **No one knows me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nilesh prajapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh prajapt" height="30" width="40" /></a>
-<a href="https://instagram.com/its.nilesh_pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.nilesh_pr" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://pin.it/5MKw4nG3H" width="100%" />
 </p>
+<!-- Subtle animated heading (adapts to light/dark) -->
+<h1 align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=FFFFFF&width=600&lines=Hi+I'm+Nilesh+Prajapat+👋">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=000000&width=600&lines=Hi+I'm+Nilesh+Prajapat+👋" />
+  </picture>
+</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilesh-prajapat&show_icons=true&locale=en&layout=compact" alt="nilesh-prajapat" /></p>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlmbHNycjZ0cmcydHFseW9tNmZzNGNwaWZzeWFvc3RoZWdmNHRzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilesh-prajapat&show_icons=true&locale=en" alt="nilesh-prajapat" /></p>
+### Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh-prajapat&" alt="nilesh-prajapat" /></p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
+      <img width="12" />
 
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" />
+
+</div>
+
+
+### 🛜 Online Coordinates
+
+<div align="left"> <a href="https://www.instagram.com/nilesh__pr_/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" /></a> <img width="8" /> <a href="https://discord.com/users/1198551046503551026"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" /></a> <img width="8" /> <a href="https://www.linkedin.com/in/nilesh-prajapat"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" /></a> </div>
+
+### 🌐 Life Config
+
+- 🚀 **Currently locked in learning:** Cracking backend architectures & mastering smarter state management in Flutter  
+- 💻 **About me:** Flutter dev + Node.js guy who loves digitalizing old college processes (because paper forms should retire 😭)  
+- ⚡ **Daily routine:** Turning messy ideas into working features (and pretending it was planned)  
+- 🤖 **Goal:** Automate every boring task until my projects run smoother than my college WiFi  
+
+
+### ⏱️ Chaos Time (Waka)
+
+
+[![wakatime](https://wakatime.com/badge/user/abd12be2-9ff5-4d2d-a22d-4d6464132cb1.svg)](https://wakatime.com/@abd12be2-9ff5-4d2d-a22d-4d6464132cb1)

@@ -1,7 +1,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="./banner.gif" width="100%" />
+  <img src="./banner.gif" width="100%" height="550"/>
 </p>
 <!-- Subtle animated heading (adapts to light/dark) -->
 <h1 align="left">

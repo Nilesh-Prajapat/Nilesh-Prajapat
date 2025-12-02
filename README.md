@@ -1,7 +1,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://pin.it/5MKw4nG3H" width="100%" />
+  <img src="./banner.gif" width="100%" />
 </p>
 <!-- Subtle animated heading (adapts to light/dark) -->
 <h1 align="left">

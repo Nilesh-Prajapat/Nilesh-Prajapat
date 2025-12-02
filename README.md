@@ -11,9 +11,6 @@
   </picture>
 </h1>
 
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlmbHNycjZ0cmcydHFseW9tNmZzNGNwaWZzeWFvc3RoZWdmNHRzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" />
-
 ### Tech Stack
 
 <div align="left">
